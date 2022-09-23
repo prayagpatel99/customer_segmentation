@@ -4,6 +4,7 @@ This  project is aimed at targeting the right set of consumers through marketin
 Outline: To analyze the marketing campaign data by performing Exploratory Data Analysis, implementing Clustering and Classification techniques on customer- demographics, income, expenditure, and purchasing trends.
 
 Research Questions:
+
         Determine the correlation between all the attributes present in the dataset. Also identify the significant ones.
         
         Scrutinize the purchasing habits of customers.
